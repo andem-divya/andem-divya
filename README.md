@@ -25,7 +25,7 @@ Flask · FastAPI · SQLAlchemy · RESTful APIs · Microservices
 
 | Project | What it does | Stack |
 |---|---|---|
-| [MoveSmart](https://capstone-movesmart.netlify.app/) | City recommendation engine scoring 900+ U.S. metro areas across 6 life themes — Affordability, Safety, Job Growth, Diversity, Urban Form, Outdoor Lifestyle. Ingests 5 government datasets (Census, FBI, CDC, NOAA, EPA), applies PCA + KMeans clustering and content-based filtering, with personalized AWS Bedrock LLM summaries. Fully deployed. | Python · PySpark · KMeans · PCA · AWS Bedrock · LangChain · Streamlit |
+| [MoveSmart](https://capstone-movesmart.netlify.app/) | City recommendation engine scoring 900+ U.S. metro areas across 6 life themes — Affordability, Safety, Job Growth, Diversity, Urban Form, Outdoor Lifestyle. Ingests 5 government datasets (Census, FBI, CDC, NOAA, EPA), applies clustering and content-based filtering, with personalized AWS Bedrock LLM summaries. Fully deployed. | Python · PySpark · KMeans · PCA · AWS Bedrock · LangChain · Streamlit |
 | [Airbnb Success Prediction](https://github.com/andem-divya/Airbnb-Success) | Geospatial ML pipeline predicting Airbnb listing popularity by integrating crime and walkability data. Applied Random Forest and XGBoost with hyperparameter tuning, feature importance evaluation, and ablation analysis. | Python · XGBoost · Random Forest · Scikit-Learn · Pandas |
 | [US Automotive Trade Analysis](https://github.com/andem-divya/US-Automotive-Trade-Analysis) | Analysis of U.S. automotive import/export trends, tariff impacts, and trade patterns across time. | Python · Pandas · Matplotlib · Seaborn · Jupyter |
 
