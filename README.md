@@ -1,26 +1,27 @@
 ### Hi, I'm Divya 👋
-
 **Software Engineer | Data & AI Engineer** · Fremont, CA
-MS Applied Data Science (AI concentration) @ University of Michigan (May 2026)
-B.Tech Electrical Engineering @ IIT Hyderabad (Indian Institute of Technology)
 
----
-
-### About me
-
-6 years building backend systems, data pipelines, and cloud-native applications at Accenture and beyond. Now finishing my MS with an AI concentration — bringing engineering discipline to data and AI problems.
-
-Currently interested in roles at the intersection of **backend engineering**, **data engineering**, and **AI engineering**.
+🎓 MS Applied Data Science (AI concentration) · University of Michigan, May 2026
+🎓 B.Tech Electrical Engineering · IIT Hyderabad (Indian Institute of Technology)
 
 ---
 
 ### Tech stack
 
-**Languages & data** · Python · SQL · PySpark · Pandas · HTML/CSS/JS
-**Cloud** · AWS (Lambda · S3 · RDS · SQS · API Gateway · Bedrock) · Docker · CI/CD
-**AI & GenAI** · LangChain · RAG · VectorDB · AWS Bedrock · Prompt Engineering
-**ML** · Scikit-Learn · PyTorch · XGBoost · Random Forest · KMeans · PCA · NLP
-**APIs & backend** · Flask · FastAPI · SQLAlchemy · RESTful APIs · Microservices
+**Languages & data**
+Python · SQL · PySpark · Pandas · HTML/CSS/JS
+
+**Cloud & infrastructure**
+AWS (Lambda · S3 · RDS · SQS · API Gateway · Bedrock) · Docker · CI/CD
+
+**AI & GenAI**
+LangChain · RAG · VectorDB · AWS Bedrock · Prompt Engineering
+
+**ML**
+Scikit-Learn · PyTorch · XGBoost · Random Forest · KMeans · PCA · NLP
+
+**APIs & backend**
+Flask · FastAPI · SQLAlchemy · RESTful APIs · Microservices
 
 ---
 
