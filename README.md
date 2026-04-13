@@ -1,7 +1,7 @@
 ### Hi, I'm Divya 👋
 **Software Engineer | Data & AI Engineer** · Fremont, CA
 
-🎓 MS Applied Data Science (AI concentration) · University of Michigan, May 2026
+🎓 MS Applied Data Science (AI concentration) · University of Michigan, May 2026  
 🎓 B.Tech Electrical Engineering · IIT Hyderabad (Indian Institute of Technology)
 
 ---
