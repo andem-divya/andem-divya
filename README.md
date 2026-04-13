@@ -25,10 +25,9 @@ Flask · FastAPI · SQLAlchemy · RESTful APIs · Microservices
 
 | Project | What it does | Stack |
 |---|---|---|
-| [MoveSmart](https://capstone-movesmart.netlify.app/) | City recommendation engine scoring 900+ U.S. metro areas across 6 life themes — Affordability, Safety, Job Growth, Diversity, Urban Form, Outdoor Lifestyle. Ingests 5 government datasets (Census, FBI, CDC, NOAA, EPA), applies clustering and content-based filtering, with personalized AWS Bedrock LLM summaries. Fully deployed. | Python · PySpark · KMeans · PCA · AWS Bedrock · LangChain · Streamlit |
-| [Airbnb Success Prediction](https://github.com/andem-divya/Airbnb-Success) | Geospatial ML pipeline predicting Airbnb listing popularity by integrating crime and walkability data. Applied Random Forest and XGBoost with hyperparameter tuning, feature importance evaluation, and ablation analysis. | Python · XGBoost · Random Forest · Scikit-Learn · Pandas |
-| [US Automotive Trade Analysis](https://github.com/andem-divya/US-Automotive-Trade-Analysis) | Analysis of U.S. automotive import/export trends, tariff impacts, and trade patterns across time. | Python · Pandas · Matplotlib · Seaborn · Jupyter |
-
+| [MoveSmart](https://capstone-movesmart.netlify.app/) | End-to-end city intelligence platform — ingests 5 government datasets (Census, FBI, CDC, NOAA, EPA), engineers features, applies PCA + KMeans clustering and content-based filtering to score 900+ U.S. metros across 6 life themes. RAG pipeline with ChromaDB embeddings and semantic search generates personalized AWS Bedrock LLM summaries. Fully deployed. | Python · PySpark · ChromaDB · RAG · LangChain · AWS Bedrock · Streamlit |
+| [Airbnb Success Prediction](https://github.com/andem-divya/Airbnb-Success) | What makes an Airbnb listing successful? Predicts review activity across 52K California listings using XGBoost, Random Forest, KNN and Linear Regression, enriched with FBI crime, EPA walkability, and Census data. Unsupervised segmentation via PCA + KMeans reveals 4 distinct listing archetypes by property scale, stay strategy, and neighborhood context. | Python · XGBoost · Random Forest · KMeans · PCA · GeoPandas · Scikit-Learn · Pandas |
+| [US Automotive Trade Analysis](https://github.com/andem-divya/US-Automotive-Trade-Analysis) | How do GDP and tariffs shape U.S. automotive trade? Analyzes imports, exports and trade balance across 30+ countries from 2008–2022, integrating ITA trade data, World Bank GDP, and WITS tariff datasets. Includes Spearman correlation, OLS regression, and animated visualizations revealing how the 2018 tariff spike and COVID-19 impacted trade flows. | Python · Pandas · Matplotlib · Seaborn · Scipy · OLS Regression |
 ---
 
 ### Experience highlights
