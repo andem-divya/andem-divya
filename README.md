@@ -9,19 +9,15 @@
 ### Tech stack
 
 **Languages & data**
-Python · SQL · PySpark · Pandas · HTML/CSS/JS
-
+Python · SQL · PySpark · Pandas · HTML/CSS/JS  
 **Cloud & infrastructure**
-AWS (Lambda · S3 · RDS · SQS · API Gateway · Bedrock) · Docker · CI/CD
-
+AWS (Lambda · S3 · RDS · SQS · API Gateway · Bedrock) · Docker · CI/CD  
 **AI & GenAI**
-LangChain · RAG · VectorDB · AWS Bedrock · Prompt Engineering
-
+LangChain · RAG · VectorDB · AWS Bedrock · Prompt Engineering  
 **ML**
-Scikit-Learn · PyTorch · XGBoost · Random Forest · KMeans · PCA · NLP
-
+Scikit-Learn · PyTorch · XGBoost · Random Forest · KMeans · PCA · NLP  
 **APIs & backend**
-Flask · FastAPI · SQLAlchemy · RESTful APIs · Microservices
+Flask · FastAPI · SQLAlchemy · RESTful APIs · Microservices  
 
 ---
 
